@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 <a href="https://www.instagram.com/jiheon_leee/" target="_blank">
   <img align="left" alt="jiheon's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -8,18 +8,18 @@
   <img align="left" alt="jiheon's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
-<br/>
+<br />
 
 <h1 align="left">Hi 👋 I'm Jiheon Lee.</h1>
 - 📫 How to reach me **dlwlflgjs@naver.com**
-
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeeeJiHeon&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
 
 <h3 align="left">languages and tools</h3>
 <br />
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javas/java.svg" alt="javascript" height="30"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
