@@ -28,9 +28,9 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/#4B3DA6/java-eclipse.png" alt="java-eclipse"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/4B3DA6/java-eclipse.png" alt="java-eclipse"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/#10C55A/android-studio--v3.png" alt="android-studio--v3"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/10C55A/android-studio--v3.png" alt="android-studio--v3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 </p>
 
