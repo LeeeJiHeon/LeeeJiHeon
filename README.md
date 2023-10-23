@@ -3,6 +3,7 @@
 <a href="https://www.instagram.com/jiheon_leee/" target="_blank">
   <img align="left" alt="jiheon's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
 
 <a href="https://www.facebook.com/dlwlflgjs/" target="_blank">
   <img align="left" alt="jiheon's facebook" width="22px" src="https://icons8.com/icon/8818/facebook.png" />
