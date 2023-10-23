@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.facebook.com/dlwlflgjs" target="_blank">
-  <img align="left" alt="jiheon's facebook" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/facebook.png" />
+  <img align="left" alt="jiheon's facebook" width="22px" src="https://img.shields.io/badge/FaceBook-#0866FF?style=for-the-badge&logo=FaceBook&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@dlwlflgjs/channels" target="_blank">
