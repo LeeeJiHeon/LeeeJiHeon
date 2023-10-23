@@ -15,7 +15,7 @@
 <br/>
 
 <h1 align="left">Hi 👋 I'm Jiheon Lee.</h1>
-<h3 align="left">Let's cheer up every day!/h3>
+<h3 align="left">Let's cheer up every day!</h3>
 
 - 📫 How to reach me **dlwlflgjs@naver.com**
   
