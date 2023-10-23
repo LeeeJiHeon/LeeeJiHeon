@@ -4,27 +4,16 @@
   <img align="left" alt="jiheon's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://www.facebook.com/dlwlflgjs" target="_blank">
-  <img align="left" alt="jiheon's facebook" width="22px" 
-src="https://img.shields.io/badge/facebook-#0866FF.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
 <a href="https://www.youtube.com/@dlwlflgjs/channels" target="_blank">
   <img align="left" alt="jiheon's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
-<br />
+<br/>
 
-<h1 align="left">Hi 👋 This is Dasom Kim, a developer who codes dreams.</h1>
-<h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
+<h1 align="left">Hi 👋 I'm Jiheon Lee.</h1>
+- 📫 How to reach me **dlwlflgjs@naver.com**
 
-- 👩‍💻 All of my projects are available at [https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5](https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5)
-
-- 💬 Ask me about **react, vue.js and solidity**
-
-- 📫 How to reach me **dasom228@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeeeJiHeon&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
 
 <h3 align="left">languages and tools</h3>
 <br />
