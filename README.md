@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **dlwlflgjs@naver.com**
   
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeeeJiHeon&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
 
 <h3 align="left"> 🛠 Languages and Tools</h3>
@@ -38,7 +37,7 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 <div>
-  <img src="https://img.shields.io/github/followers/dasom222g?style=social" alt="github followers" height="24" />
+  <img src="https://img.shields.io/github/followers/LeeeJiHeon?style=social" alt="github followers" height="24" />
   <img src="https://img.shields.io/youtube/channel/subscribers/UCRAPX1FnLmdVrT8T7YKRMtw?style=social" alt="youtube subscribers" height="24" />
   <img src="https://img.shields.io/youtube/channel/views/UCRAPX1FnLmdVrT8T7YKRMtw?style=social" alt="youtube views" height="24" />
 </div>
