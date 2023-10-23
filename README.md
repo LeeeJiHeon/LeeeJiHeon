@@ -5,8 +5,7 @@
 </a>
 
 <a href="https://www.facebook.com/dlwlflgjs/" target="_blank">
-  <img align="left" alt="jiheon's Facebook | Facebook" width="22px"
- src="https://icons8.com/icon/13912/facebook.png" />
+  <img align="left" alt="jiheon's Facebook" width="22px" src="https://img.icons8.com/color/48/facebook.png" alt="facebook"/>
 </a>
 
 <a href="https://www.youtube.com/@dlwlflgjs/channels" target="_blank">
