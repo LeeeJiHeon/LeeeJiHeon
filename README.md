@@ -8,19 +8,17 @@
   <img align="left" alt="jiheon's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
-<br />
+<br/>
 
 <h1 align="left">Hi 👋 I'm Jiheon Lee.</h1>
 - 📫 How to reach me **dlwlflgjs@naver.com**
-<br />
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeeeJiHeon&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
 
-<h3 align="left">languages and tools</h3>
+<h3 align="left"> 🛠 Languages and Tools</h3>
 <br />
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javas/java.svg" alt="javascript" height="30"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
   </a>
