@@ -15,56 +15,23 @@
 <br/>
 
 <h1 align="left">Hi 👋 I'm Jiheon Lee.</h1>
+<h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
+
 - 📫 How to reach me **dlwlflgjs@naver.com**
+  
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeeeJiHeon&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
 
 <h3 align="left"> 🛠 Languages and Tools</h3>
 <br />
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="30"/>
-  </a>
-  
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="30"/>
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/>
-   </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="30"/>
-  </a> 
-  
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="30"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/>
-  </a>
-  
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="30"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
-  </a>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/java-eclipse.png" alt="java-eclipse"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/android-studio--v3.png" alt="android-studio--v3"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
 </p>
 
 <br />
