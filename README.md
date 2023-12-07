@@ -36,8 +36,8 @@
 <h3 align="left">📈 My github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=LeeeJiHeon&hide=stars,contribs&show_icons=true&theme=gotham&locale=en" alt="LeeeJiHeon" /></p>
-<p  align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeeJiHeon&theme=gotham" alt="LeeeJiHeon" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeeJiHeon&hide=stars,contribs&show_icons=true&theme=gotham&locale=en" alt="LeeeJiHeon" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeeJiHeon&theme=gotham" alt="LeeeJiHeon" /></p>
 
 <h3 align="left">💪 I'm currently Top Languages</h3>
 br />
