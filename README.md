@@ -38,11 +38,8 @@
 
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeeJiHeon&hide=stars,contribs&show_icons=true&theme=gotham&locale=en" alt="LeeeJiHeon" /></p>
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeeJiHeon&langs_count=10&layout=compact&theme=dark" alt="LeeeJiHeon" /></p>
-
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeeJiHeon&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang
  
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeeJiHeon&theme=gotham" alt="LeeeJiHeon" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeeJiHeon&langs_count=10&layout=compact)]()
 
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeeJiHeon&langs_count=10&layout=compact&theme=dark" alt="LeeeJiHeon" /></p>
 
