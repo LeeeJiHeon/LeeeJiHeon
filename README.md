@@ -36,7 +36,7 @@
 <h3 align="left">📈 My GitHub stats</h3>
 <br />
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeeJiHeon&hide=stars,contribs&show_icons=true&theme=gotham&locale=en" alt="LeeeJiHeon" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeeJiHeon&show_icons=true&theme=gotham&locale=en" alt="LeeeJiHeon" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeeeJiHeon&theme=gotham" alt="LeeeJiHeon" /> </p>
 
 <h3 align="left">💪 I'm currently Top Languages</h3>
