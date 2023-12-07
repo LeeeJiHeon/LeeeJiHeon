@@ -37,6 +37,7 @@
 <br />
 
 <p  align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=LeeeJiHeon&hide=stars,contribs&show_icons=true&theme=gotham&locale=en" alt="LeeeJiHeon" /></p>
+<br />
 <p  align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeeJiHeon&theme=gotham" alt="LeeeJiHeon" /></p>
 
 <h3 align="left">💪 I'm currently Top Languages</h3>
