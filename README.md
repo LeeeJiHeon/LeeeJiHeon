@@ -33,14 +33,14 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 </p>
 
-<h3 align="left">📈 My github stats</h3>
+<h3 align="left">📈 My GitHub stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeeJiHeon&hide=stars,contribs&show_icons=true&theme=gotham&locale=en" alt="LeeeJiHeon" /></p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeeJiHeon&theme=gotham" alt="LeeeJiHeon" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=LeeeJiHeon&hide=stars,contribs&show_icons=true&theme=gotham&locale=en" alt="LeeeJiHeon" /> </p>
+<p align="left"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeeJiHeon&theme=gotham" alt="LeeeJiHeon" /> </p>
 <br />
 
 <h3 align="left">💪 I'm currently Top Languages</h3>
 <br />
-<p  align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeeJiHeon&langs_count=10&layout=compact&theme=dark" alt="LeeeJiHeon" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeeJiHeon&langs_count=10&layout=compact&theme=dark" alt="LeeeJiHeon" /> </p>
 
