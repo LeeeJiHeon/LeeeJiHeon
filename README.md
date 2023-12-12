@@ -8,9 +8,7 @@
   <img align="left" alt="jiheon's Facebook" width="24px" src="https://img.icons8.com/color/48/facebook.png" alt="facebook"/>
 </a>
 
-<a href="https://www.facebook.com/dlwlflgjs/" target="_blank">
-  <img align="left" alt="jiheon's Facebook" width="24px" src="https://img.icons8.com/color/48/facebook.png](http://www.w3.org/2000/svg)" alt="facebook"/>
-</a>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
   <img align="left" alt="jiheon's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
